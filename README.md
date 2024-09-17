@@ -5,3 +5,7 @@ This project is part of a Rocketseat course where we're developing a user feed a
 # 📚 Learning
 
 I will use this repository to present this project and also to document important notes about the course and lessons learned throughout the development.
+
+## 📸 Project Preview
+
+![Project Preview](./path/to/your/image.png)
