@@ -8,4 +8,8 @@ I will use this repository to present this project and also to document importan
 
 ## 📸 Project Preview
 
-![Project Preview](./path/to/your/image.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ca2e674a-8bbd-4652-ba81-e4aad8209787" alt="Project Preview" width="600"/>
+</p>
+
+For now the project is just visual, without functionalities. But I will add all the features of this project in the future.
