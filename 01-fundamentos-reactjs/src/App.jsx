@@ -42,8 +42,6 @@ const posts = [
 ]
 
 
-
-
 export function App() {
   return (
   <div>
