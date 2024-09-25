@@ -10,7 +10,7 @@ I will use this repository to present this project and also to document importan
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c34116af-4612-4426-8aef-5e417cb783b8" alt="Project Preview" height="300"/>
-  <img src="https://github.com/user-attachments/assets/8793f341-69b6-405b-99c9-b48c3d71d29c" alt="Project Preview" height="300"/>
+  <img src="https://github.com/user-attachments/assets/fcd35e79-d73e-4ef5-83c5-e6bdae3231d1" alt="Project Preview" height="300"/>
 </p>
 
-For now the project is just visual, without functionalities. But I will add all the features of this project in the future.
+I have added the functionality to add and delete comments. Also, it is not possible to click the "Add Comments" button without writing a comment first.
