@@ -4,7 +4,12 @@ This project is part of a Rocketseat course where we're developing a user feed a
 
 # 📚 Learning
 
-I will use this repository to present this project and also to document important notes about the course and lessons learned throughout the development.
+I have completed the first part (Fundamentals) of the Rocketseat React course. I learned a lot during this project, especially concepts such as Components, Properties, States, Immutability, best practice patterns in React, and accessibility for users and different devices.
+
+I feel comfortable developing a React application from scratch, with the knowledge acquired in this course. I will continue with another project and also with the course, it is just the beginning!
+
+Let's go!
+
 
 ## 📸 Project Preview
 
@@ -13,4 +18,6 @@ I will use this repository to present this project and also to document importan
   <img src="https://github.com/user-attachments/assets/fcd35e79-d73e-4ef5-83c5-e6bdae3231d1" alt="Project Preview" height="300"/>
 </p>
 
-I have added the functionality to add and delete comments. Also, it is not possible to click the "Add Comments" button without writing a comment first.
+Project summary: Social Feed where users can add comments to other users' posts and delete comments. The project is fully portable to mobile devices and different screen sizes.
+
+
