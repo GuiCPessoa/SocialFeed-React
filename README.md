@@ -18,6 +18,11 @@ Let's go!
   <img src="https://github.com/user-attachments/assets/fcd35e79-d73e-4ef5-83c5-e6bdae3231d1" alt="Project Preview" height="300"/>
 </p>
 
+#
+<p align="center">
+<img src="https://github.com/user-attachments/assets/18a697e3-b580-4726-9577-3b4dd73d9fb2" alt="Project Preview" height="300"/>
+</p>
+
 Project summary: Social Feed where users can add comments to other users' posts and delete comments. The project is fully portable to mobile devices and different screen sizes.
 
 
